@@ -1,0 +1,25 @@
+//TODO ajustar rotas da API em um único lugar
+//TODO ajeitar active_screens, active_functions, active_navbar
+//TODO initState()
+//TODO didUpdateWidget()
+//TODO dispose()
+//TODO inactive -- with WidgetsBindingObserver
+//TODO paused -- with WidgetsBindingObserver
+//TODO resumed -- with WidgetsBindingObserver
+//TODO suspending -- with WidgetsBindingObserver
+//TODO UniqueKey() | ValueKey()
+
+//TODO TELAS
+//TODO text curto
+//TODO texto longo
+//TODO select
+//TODO radio button
+//TODO checkbox
+//TODO upload de arquivos
+//TODO lista de itens
+//TODO finalizar notificações
+//TODO icones
+//TODO dropdown
+//TODO finalizar criar publicação
+//TODO formulário
+//TODO criar uma appbar para cada tela
